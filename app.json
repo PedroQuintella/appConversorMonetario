@@ -4,10 +4,10 @@
     "slug": "201910756",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/icone-conversor.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/logotipo_universidade.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
